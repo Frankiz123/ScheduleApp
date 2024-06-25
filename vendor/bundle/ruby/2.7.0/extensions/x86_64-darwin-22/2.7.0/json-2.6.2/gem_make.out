@@ -1,0 +1,13 @@
+current directory: /Volumes/WORK-1/Projects/SchedularApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+/Users/taimoor/.rbenv/versions/2.7.4/bin/ruby -I /Users/taimoor/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20240625-76008-1g0x3yg.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/WORK-1/Projects/SchedularApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /Volumes/WORK-1/Projects/SchedularApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Volumes/WORK-1/Projects/SchedularApp/vendor/bundle/ruby/2.7.0/gems/json-2.6.2/ext/json
+make "DESTDIR=" install
