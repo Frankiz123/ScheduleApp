@@ -145,7 +145,6 @@
 				97376EE0165EB936963BD607 /* Pods-SchedularApp-SchedularAppTests.debug.xcconfig */,
 				23B47026A2542C6ABB775956 /* Pods-SchedularApp-SchedularAppTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -485,6 +484,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F68Q5Q3X22;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = SchedularApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -511,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F68Q5Q3X22;
 				INFOPLIST_FILE = SchedularApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
